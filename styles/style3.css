@@ -1,0 +1,167 @@
+
+.pacoca-container {
+  background-color: #000020;
+  border-radius: 12px;
+  padding: 1px;
+  margin: 15px 15px 15px 15px;
+}
+
+.visited:visited {
+  color: #05d8e8;
+}
+
+a,
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.pacoca {
+  display: flex;
+  justify-content: space-between;
+}
+
+.common-img {
+  display: flex;
+  margin: 15px 0px 9px 20px;
+}
+
+.apy {
+  margin: 0px 0px 0px 0px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.imeg {
+  color: rgba(225, 225, 225, 50%);
+  margin-left: 5px;
+}
+
+.auto {
+  margin: 0px 0px 0px 0px;
+}
+
+.img-container {
+  text-align: left;
+}
+
+.rab {
+  margin-right: 10px;
+  position: relative;
+}
+
+button {
+  background-color: #05d8e8;
+  border-radius: 12px;
+  padding: 12px 30px;
+  border: 1px solid #05d8e8;
+  margin: 15px 15px 0px 0px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.farm-platform {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-between;
+  background-color: #131225;
+  border-radius: 12px;
+
+  padding-top: 20px;
+}
+
+.group {
+  display: flex;
+  margin: 0px 0px 15px 20px;
+}
+
+.small1 {
+  font-size: 12px;
+  opacity: 50%;
+  margin-right: 40px;
+}
+
+.small2 {
+  font-size: 12px;
+  opacity: 50%;
+  text-align: left;
+}
+
+.small3 {
+  font-size: 12px;
+  opacity: 50%;
+  text-align: left;
+  margin-right: 40px;
+}
+
+.small {
+  margin-right: 90px;
+  font-size: 12px;
+  opacity: 50%;
+}
+
+.back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grey {
+  background-color: #272637;
+  border-radius: 12px;
+  margin: 5px 15px 15px 15px;
+}
+
+.info {
+  margin: 10px;
+}
+
+.container-hover {
+  background-color: #131225;
+  border-radius: 12px;
+  line-height: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  position: absolute;
+  top: 624px;
+  display: none;
+  left: 34px;
+  z-index: 10;
+}
+
+.hover:hover {
+  display: block;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.opacity {
+  font-size: 12px;
+}
+
+.align {
+  margin-left: 115px;
+}
+
+.info-wrapper:hover .container-hover {
+  display: block;
+}
+
+.container-hover::before {
+  content: "o";
+  color: #131225;
+  font-size: 1px;
+  width: 20px;
+  position: absolute;
+  height: 20px;
+  background-color: #131225;
+  transform: rotate(45deg);
+  top: -10px;
+  left: 97px;
+}

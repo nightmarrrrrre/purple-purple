@@ -1,0 +1,60 @@
+.inputs{
+    display:flex;
+    width:100%;
+    justify-content:end;
+    margin: 30px 5px 10px 5px;
+}
+
+.first-input{
+   background-color: #010014;
+   border-radius:12px;
+   padding:10px 32px 10px 10px;
+   border-color:#010014;
+   margin-right:10px;
+}
+
+.second-input{
+    background-color: #010014;
+    border-radius:12px;
+    padding:10px 0px 10px 10px;
+    border-color:#010014;
+}
+
+.add-button{
+    padding: 10px 60px 10px 60px;
+}
+
+.heading, .dark, .light{
+    display:flex;
+    justify-content:space-around;
+    margin:0px;
+    margin-left:17px;
+}
+
+button{
+    width:40%;
+    margin-bottom:20px;
+}
+
+.heading{
+    background-color:#000020;
+    padding:0px;
+}
+
+.marg{
+    margin:7px;
+    font-size:14px;
+    opacity:50%;
+}
+
+.dark, .light{
+    background-color:#131225;
+}
+
+.light{
+    background-color: #24233C;
+}
+
+.pink{
+    color:#FF296D;
+}
