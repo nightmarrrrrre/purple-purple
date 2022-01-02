@@ -1,0 +1,142 @@
+aside {
+  text-align: start;
+  margin-left: 15px;
+  opacity: 50%;
+}
+
+.features {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.another {
+  font-size: 16px;
+}
+
+.another1:visited {
+  color: #05d8e8;
+  text-decoration: none;
+}
+
+.visited:visited {
+  color: #05d8e8;
+}
+
+.aside {
+  display: flex;
+  margin-top: 10px;
+}
+
+img {
+  margin: 10px 0px 0px 20px;
+}
+
+.container {
+  display: flex;
+  height: 270px;
+}
+
+label {
+  font-size: 12px;
+  opacity: 50%;
+  text-align: start;
+  margin-left: 10px;
+}
+
+.contract-field {
+  background-color: #000020;
+  height: 80px;
+  border-radius: 12px;
+  margin: 20px 0px 0px 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-grow: 1;
+  width: 400px;
+}
+
+.adress {
+  background-color: #000020;
+  border: 1px solid #000020;
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+  width: 375px;
+  font-weight: 700;
+}
+
+.small-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.spend {
+  background-color: #000020;
+  height: 40px;
+  border: 1px solid #000020;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 500;
+  width: 280px;
+  padding-left: 15px;
+  color: white;
+}
+
+.input-box {
+  margin: 10px 0px 0px 15px;
+  font-weight: 500;
+}
+
+.shedule {
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.approved {
+  background-color: #000020;
+  height: 32px;
+  width: 400px;
+  align-items: center;
+  display: flex;
+  justify-content: left;
+}
+
+.banana1 {
+  background-color: #161325;
+  height: 53px;
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.banana2 {
+  background-color: #1613255b;
+  height: 53px;
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.banana3 {
+  background-color: #161325;
+  height: 53px;
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.opacity {
+  opacity: 50%;
+}

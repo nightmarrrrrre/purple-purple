@@ -1,0 +1,142 @@
+body {
+  background: #010014;
+  max-width: 589px;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  font-family: "Jost", sans-serif;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 24px;
+  margin-bottom: 1px;
+}
+
+.p1 {
+  font-size: 16px;
+  color: white;
+  opacity: 50%;
+  margin-top: 2px;
+  font-weight: 500;
+}
+
+.block {
+  display: flex;
+  justify-content: space-around;
+}
+
+.harvest {
+  background: #161325;
+  width: 293px;
+  border-radius: 12px;
+  margin-right: 4px;
+}
+
+.borrowed {
+  background: #161325;
+  width: 293px;
+  border-radius: 12px;
+  margin-left: 4px;
+}
+
+.span {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 0;
+  font-weight: 800;
+}
+
+.span1 {
+  font-size: 16px;
+}
+
+.main {
+  background-color: #272637;
+  margin-top: 10px;
+  border-radius: 12px;
+  padding-bottom: 10px;
+  padding-bottom: 1px;
+  margin-bottom: 30px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  opacity: 50%;
+  font-size: 16px;
+  padding-top: 15px;
+  font-weight: 800;
+}
+
+.span2 {
+  color: #05d8e8;
+  opacity: 100%;
+}
+
+.visited:visited {
+  color: #05d8e8;
+}
+
+.container {
+  display: flex;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.icons {
+  display: flex;
+  position: relative;
+  margin-top: 10px;
+}
+
+.small-line {
+  position: absolute;
+  margin: 0;
+}
+
+.long-line {
+  margin: 0;
+}
+
+.labels {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  margin-top: 0px;
+  font-size: 12px;
+  opacity: 50%;
+}
+
+.text1 {
+  margin-top: 0px;
+  font-size: 12px;
+  color: #05d8e8;
+  margin-left: 20px;
+}
+
+.prg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.big-text {
+  font-size: 24px;
+  font-weight: 800;
+  margin: 50px 0px 0px 0px;
+}
+
+.smaller {
+  margin-bottom: 0px;
+}
+
+.small {
+  font-size: 12px;
+  opacity: 50%;
+}
