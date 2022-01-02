@@ -1,4 +1,3 @@
-
 .pacoca-container {
   background-color: #000020;
   border-radius: 12px;
@@ -49,16 +48,6 @@ a:visited {
 .rab {
   margin-right: 10px;
   position: relative;
-}
-
-button {
-  background-color: #05d8e8;
-  border-radius: 12px;
-  padding: 12px 30px;
-  border: 1px solid #05d8e8;
-  margin: 15px 15px 0px 0px;
-  font-weight: 500;
-  font-size: 16px;
 }
 
 .farm-platform {

@@ -79,8 +79,6 @@ h1 {
   color: #05d8e8;
 }
 
-
-
 .container {
   display: flex;
 }
@@ -141,14 +139,4 @@ h1 {
 .small {
   font-size: 12px;
   opacity: 50%;
-}
-
-button {
-  width: 25%;
-  height: 40px;
-  border-radius: 12px;
-  background-color: #05d8e8;
-  border: 1px solid #05d8e8;
-  font-weight: 600;
-  margin-top: 15px;
 }
